@@ -77,13 +77,10 @@ I love solving real-world problems, exploring modern web technologies, and conti
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbdullahRayean&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahRayean&layout=compact&theme=tokyonight" alt="Top Languages" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Rayean52&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rayean52&layout=compact&theme=tokyonight" alt="Top Languages" height="160"/>
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=AbdullahRayean&theme=tokyonight" alt="GitHub Streak" height="160"/>
-</p>
 
 ---
 
